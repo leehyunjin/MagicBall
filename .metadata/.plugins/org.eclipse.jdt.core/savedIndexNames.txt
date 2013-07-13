@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\nexters\.metadata\.plugins\org.eclipse.jdt.core
+1589242211.index
+2117801748.index
+956453848.index
+55054668.index
+3624190362.index
+3223879303.index

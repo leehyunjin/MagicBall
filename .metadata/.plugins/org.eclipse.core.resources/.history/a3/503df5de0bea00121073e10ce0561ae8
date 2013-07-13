@@ -1,0 +1,9 @@
+package com.example.magicball;
+
+public class RecordActivity extends Activity {
+
+	public void onCreate (Bundle saveInstanceState) {
+		super.onCreate(saveInstanceState);
+		setContentView(R.layout.main); //layoutResID
+	}
+}
